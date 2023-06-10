@@ -14,7 +14,6 @@ A **[Shopping Cart](https://github.com/Maxvien/next-shopify-storefront)** built 
 - [How Do I Implement Dynamic Variant Selector for Shopify in Next.js?](https://github.com/Maxvien/next-shopify-storefront/issues/71)
 
 ## Experience
-
 These are my experiences when I have been working on this project:
 
 - Designing & Building the [Storefront](https://github.com/maxvien/next-shopify-storefront) from Scratch.
